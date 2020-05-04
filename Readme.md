@@ -30,7 +30,7 @@ Each week may have a list of topic-based questions, which you should be prepared
 ## Projects
 This cohort will prioritize individual and group-based project work:
 - [Project 0](project0.md): Begins Week 1, due **Wednesday Week 3**
-- Project 1: Begins end of Week 3, due **Friday Week 5**
+- [Project 1](project1.md): Begins end of Week 3, due **Friday Week 5**
 - Project 2: Begins Week 6, due **Friday Week 7**
 - Project 3: Begins Week 8, due **Thursday Week 10**
 
