@@ -31,7 +31,7 @@ Each week may have a list of topic-based questions, which you should be prepared
 This cohort will prioritize individual and group-based project work:
 - [Project 0](project0.md): Begins Week 1, due **Wednesday Week 3**
 - [Project 1](project1.md): Begins end of Week 3, due **Friday Week 5**
-- Project 2: Begins Week 6, due **Friday Week 7**
+- [Project 2](project2.md): Begins Week 6, due **Friday Week 7**
 - Project 3: Begins Week 8, due **Thursday Week 10**
 
 Each project will require a list of features to be implemented, whether functional or operational, and finishing your MVP (minimum viable product) as early as possible before iterating new features upon the project is highly suggested. Plan ahead, and be sure to reach out to everyone whenever you require guidance (or offer your own to those in need).
