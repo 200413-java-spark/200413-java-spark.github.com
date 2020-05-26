@@ -1,0 +1,14 @@
+# Week 7 - Apache Spark Streaming
+- Stream processing
+- Apache Kafka:
+  - Topics & Brokers
+  - Consumer vs Producer
+    - Creating consumer/producer
+    - Sending messages from a producer
+    - Producer API
+  - Pub/Sub messaging
+  - Kafka Architecture 
+- Apache Spark Architecture
+- Apache Spark Streaming:
+  - Spark engine
+  - Sending/processing datastream from Kafka to Spark
