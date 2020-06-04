@@ -1,4 +1,4 @@
-# Week 3 - Big Data
+# Week 4 - Big Data
 ## Concepts
 - Big Data: Batch vs stream processing
 - JavaSE 8: Streams, Functional Interfaces, [Lambdas](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
